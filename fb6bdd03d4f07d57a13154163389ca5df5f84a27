@@ -1,0 +1,7 @@
+Code-Review+2: Rong Xu <xur@google.com>
+Verified+1: Yiran Wang <yiran@google.com>
+Submitted-by: Yiran Wang <yiran@google.com>
+Submitted-at: Tue, 14 Jul 2015 18:26:29 +0000
+Reviewed-on: https://android-review.googlesource.com/159427
+Project: platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+Branch: refs/heads/master
