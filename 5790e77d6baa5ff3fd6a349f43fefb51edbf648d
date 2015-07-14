@@ -1,0 +1,7 @@
+Code-Review+2: Andrew Hsieh <andrewhsieh@google.com>
+Verified+1: Yiran Wang <yiran@google.com>
+Submitted-by: Yiran Wang <yiran@google.com>
+Submitted-at: Tue, 14 Jul 2015 16:57:11 +0000
+Reviewed-on: https://android-review.googlesource.com/159016
+Project: platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+Branch: refs/heads/master
