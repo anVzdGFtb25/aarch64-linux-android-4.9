@@ -1,0 +1,8 @@
+Code-Review+2: Rong Xu <xur@google.com>
+Code-Review+2: Dan Albert <danalbert@google.com>
+Verified+1: Than McIntosh <thanm@google.com>
+Submitted-by: Than McIntosh <thanm@google.com>
+Submitted-at: Mon, 12 Oct 2015 19:39:20 +0000
+Reviewed-on: https://android-review.googlesource.com/175600
+Project: platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+Branch: refs/heads/master
