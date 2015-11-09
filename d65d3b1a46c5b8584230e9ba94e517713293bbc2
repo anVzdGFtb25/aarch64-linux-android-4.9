@@ -1,0 +1,7 @@
+Code-Review+2: Elliott Hughes <enh@google.com>
+Verified+1: Dan Albert <danalbert@google.com>
+Submitted-by: Dan Albert <danalbert@google.com>
+Submitted-at: Mon, 09 Nov 2015 18:22:21 +0000
+Reviewed-on: https://android-review.googlesource.com/181375
+Project: platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+Branch: refs/heads/master
