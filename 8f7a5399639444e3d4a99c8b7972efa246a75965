@@ -1,0 +1,10 @@
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Verified+1: Nick Desaulniers <ndesaulniers@google.com>
+Code-Review+1: Nick Desaulniers <ndesaulniers@google.com>
+Code-Review+2: Elliott Hughes <enh@google.com>
+Code-Review+2: Caroline Tice <cmtice@google.com>
+Submitted-by: Nick Desaulniers <ndesaulniers@google.com>
+Submitted-at: Fri, 19 Apr 2019 21:04:17 +0000
+Reviewed-on: https://android-review.googlesource.com/c/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/+/947574
+Project: platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9
+Branch: refs/heads/master
