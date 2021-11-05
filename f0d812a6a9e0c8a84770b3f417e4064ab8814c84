@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "286e238a_0cc5d951",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1114194
+      },
+      "writtenOn": "2021-11-05T22:33:30Z",
+      "side": 1,
+      "message": "removed dead symlinks from v1.",
+      "revId": "f0d812a6a9e0c8a84770b3f417e4064ab8814c84",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
